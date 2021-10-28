@@ -7,7 +7,7 @@ export default class Corpo extends Component{
         return(
             <Image
                 source={img}
-                style={ {width:150, height:150} }
+                style={ {width:100, height:100} }
             />
         )
     }
